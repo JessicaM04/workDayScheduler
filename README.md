@@ -8,5 +8,6 @@ Screenshot of completed website:
 <img width="1290" alt="Screen Shot 2022-07-07 at 10 39 28 PM" src="https://user-images.githubusercontent.com/103011054/177906565-0e121f78-d050-454f-bb06-b31bc42a17f4.png">
 
 Link to deployed site:
+https://jessicam04.github.io/workDayScheduler/
 
 
